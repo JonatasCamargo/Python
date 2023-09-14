@@ -40,3 +40,4 @@ if opcão == 4:
 #condição cartão até 2x
 else:
     print(f'Sua compra de R${preço}, não sofrerá nenhum juros!')
+    
